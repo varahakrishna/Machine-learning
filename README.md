@@ -7,3 +7,5 @@ factors influencing the water. The project's scope is to implement a machine lea
 the water quality which can be used for daily activities. To predict water safety in the future for a specific
 area under certain conditions.Used only 2 classifiers those are Random Forest model and K- nearest
 Neighbor and in future we can implement different other algorithms to achieve better accuracy.
+I have used data set from kaggle i.e https://www.kaggle.com/datasets/adityakadiwal/water-potability
+
