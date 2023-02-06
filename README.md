@@ -8,4 +8,7 @@ the water quality which can be used for daily activities. To predict water safet
 area under certain conditions.Used only 2 classifiers those are Random Forest model and K- nearest
 Neighbor and in future we can implement different other algorithms to achieve better accuracy.
 I have used data set from kaggle i.e https://www.kaggle.com/datasets/adityakadiwal/water-potability
+<img src="/Screenshot (9).png" alt="Alt text" title="Optional title">
+<img src="/Screenshot (8).png" alt="Alt text" title="Optional title">
+<img src="/Screenshot (10).png" alt="Alt text" title="Optional title">
 
